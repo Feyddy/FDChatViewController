@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>text</key>
+		<string>浩浩是傻逼</string>
+		<key>time</key>
+		<string>今天 12:00</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>冬瓜是傻逼</string>
+		<key>time</key>
+		<string>今天 12:01</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>没错，他俩都是傻逼</string>
+		<key>time</key>
+		<string>今天 12:01</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>不过，小灰灰也是一个大傻逼，难道你不觉得吗？</string>
+		<key>time</key>
+		<string>今天 12:12</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>恩恩，我认为是的，而且浩南哥也是一个十足的大傻逼！你同意吗？</string>
+		<key>time</key>
+		<string>今天 13:00</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>完全同意!</string>
+		<key>time</key>
+		<string>今天 13:20</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+</array>
+</plist>
